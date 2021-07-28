@@ -1,0 +1,25 @@
+.navBarDiv {
+    width: 100%;
+    color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.linkClass {
+    color: white;
+    text-decoration: none;
+    padding-right: 75px;
+}
+
+.linkClassRightFixed {
+    color: white;
+    text-decoration: none;
+    position: fixed;
+    right: 0px;
+    padding-right: 50px;
+}
+
+a:hover {
+    color:rgb(220,20,60,0.9);
+}
